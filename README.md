@@ -19,12 +19,14 @@ Packit team. You can see it in action [here](https://github.com/packit/agile)
 and check role assignments in the [repository's
 issues](https://github.com/packit/agile/issues).
 
-After the technique proved successful, we followed with a series of blog posts and presentations:
+After the technique proved successful, we followed with a series of blog posts:
 1. 📄 [How to run an open-source service?](https://medium.com/@laura.barcziova/how-to-run-an-open-source-service-fb3303240e69)
 2. 📄 [Inception of rotating roles](https://medium.com/@laura.barcziova/inception-of-rotating-roles-9caf971b3096)
 3. 📄 [Share team responsibilities efficiently](https://medium.com/@laura.barcziova/share-team-responsibilities-efficiently-9a202aad7bd0)
 4. 📄 [Role rotation tutorial](https://medium.com/@laura.barcziova/role-rotation-tutorial-957ed3545ef2)
-5. 📽️ [A journey of iteration and role rotation for better collaboration - DevConf.CZ 2024](https://www.youtube.com/watch?v=y1t7Wd31bL8)
+
+And we also did a presentation:
+- 📽️ [A journey of iteration and role rotation for better collaboration - DevConf.CZ 2024](https://www.youtube.com/watch?v=y1t7Wd31bL8)
 
 
 ## Common team roles
@@ -43,7 +45,7 @@ lead, you can stop wasting time of all people on your meetings.
 * Run a meeting (TBD: this could be more detailed)
 * Make sure people stay on topic
 * Follow meeting agenda - address all points
-* Write down action items and assign them
+* Write down action items and make sure the they are assigned
 * Make meeting notes or assign someone on the call to write them down
 
 ### Why have this role?
@@ -57,17 +59,16 @@ lead, you can stop wasting time of all people on your meetings.
 * It can be tiring to be in charge of everything all the time. Managers
   understand. Team members may suddenly feel more empathy and compassion once
   they realize that leading a meeting requires significant effort.
-* Better knowledge about the code base to be able to review the changes.
 
 ## 🏃 Agile lead
-As we participate in our agile methodology technique, be it scrum or kanban, we
+As we participate in our agile methodology technique, be it scrum, kanban, or anything else, we
 should have someone to be in charge. This role can be very similar to the
 Meeting lead. We are keeping it separate here so we can clearly distinguish
 between agile development methodology and just running meetings.
 
 ### Responsible for
 * The team sticks to all the agile ceremonies as they are defined.
-* Coordinate with the meeting lead are be one.
+* Coordinate with the meeting lead or be one.
 * Make sure everyone has the capacity to work on their tasks.
 * Assist people who are struggling in their assignments.
 * Volunteer if possible for i.e. research, testing, or reaching out to
@@ -78,7 +79,8 @@ different teams if needed.
 * It could become chaotic without an agile lead.
 
 ### What can people learn?
-* The responsibility to be in charge of the team's sprint.
+* The responsibility to be in charge of the team's current agile iteration
+  (such as scrum sprint, or a kanban cycle).
 * It is an important experience for junior members of the team to be the lead.
 
 ## 🎙️Community shepherd
@@ -92,7 +94,7 @@ This role can be paired with the watcher of alerts and monitoring.
 ### Responsible for
 * Pay attention to questions and comments from your community in your chat
 rooms, issue trackers, mailing lists, social media.
-* Bring user's pain points back to the team and make sure they are prioritized.
+* Bring user's pain points back to the team and make sure they are triaged and prioritized.
 * Suggest improvements based on the feedback.
 * Lead community meetings.
 
