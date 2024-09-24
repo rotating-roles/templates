@@ -145,3 +145,12 @@ TBD
 ## 🚀 Release & Deployment
 
 TBD
+
+# Thank you to the interviewees
+
+We couldn't compile this database of roles without the interviews. Thank you
+to: Michal Srb ([@msrb](https://github.com/msrb)), Neil Smith, Martin Pitt
+([@martinpitt](https://github.com/martinpitt)), Petr Splichal
+([@psss](https://github.com/psss)), Miro Vadkerti
+([@thrix](https://github.com/thrix)), Martin Krizek
+([@mkrizek](https://github.com/mkrizek)).
