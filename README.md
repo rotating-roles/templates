@@ -37,9 +37,15 @@ apply everywhere and to everyone —  you are welcome to be inspired and create 
 role that will fit your team.
 
 ## 🗓️Meeting lead
+
+<img src="/img/meeting-lead.jpg" alt="A woman in charge of a meeting" style="max-width: 100%;" width="256">
+
 Having a productive meeting that sticks to agenda, has notes, and a clear
 outcome, has a tremendeous impact on everyone. With one responsible meeting
 lead, you can stop wasting time of all people on your meetings.
+
+<details>
+<summary><b>More about this role</b></summary>
 
 ### Responsible for
 * Run a meeting (TBD: this could be more detailed)
@@ -60,11 +66,19 @@ lead, you can stop wasting time of all people on your meetings.
   understand. Team members may suddenly feel more empathy and compassion once
   they realize that leading a meeting requires significant effort.
 
+</details>
+
 ## 🏃 Agile lead
+
+<img src="/img/agile-lead.jpg" alt="A team working on a problem together" style="max-width: 100%;" width="256">
+
 As we participate in our agile methodology technique, be it scrum, kanban, or anything else, we
 should have someone to be in charge. This role can be very similar to the
 Meeting lead. We are keeping it separate here so we can clearly distinguish
 between agile development methodology and just running meetings.
+
+<details>
+<summary><b>More about this role</b></summary>
 
 ### Responsible for
 * The team sticks to all the agile ceremonies as they are defined.
@@ -83,13 +97,21 @@ different teams if needed.
   (such as scrum sprint, or a kanban cycle).
 * It is an important experience for junior members of the team to be the lead.
 
+</details>
+
 ## 🎙️Community shepherd
+
+<img src="/img/shepherd.jpg" alt="Shepherd herding sheep in the mountains" style="max-width: 100%;" width="256">
+
 Building community can take a lot of time and energy. It's something we are
 often not taught at a school. When users can directly interact with project's
 developers, it allows them to quickly address issues and start a lasting
 professional relationship.
 
 This role can be paired with the watcher of alerts and monitoring.
+
+<details>
+<summary><b>More about this role</b></summary>
 
 ### Responsible for
 * Pay attention to questions and comments from your community in your chat
@@ -107,15 +129,20 @@ rooms, issue trackers, mailing lists, social media.
 * Improve social skills and step out of the comfort zone.
 * Expand your professional network and become more visible.
 
+</details>
+
 ## 🔭 Chief reviewer
 
-<img src="/img/reviewer.jpg" alt="Inspector doing a review" style="max-width: 100%;" width="512">
+<img src="/img/reviewer.jpg" alt="Inspector doing a review" style="max-width: 100%;" width="256">
 
 Reviews are a pillar of a successful project. They make sure we are not making
 obvious mistakes and can be an effective learning tool for all parties. Make
 sure that your team is clear who is responsible for driving a proposal towards
 end (i.e. merging a pull request): if it's the author, maintainer, manager, or
 reviewer.
+
+<details>
+<summary><b>More about this role</b></summary>
 
 ### Responsible for
 * Provide reviews in project’s git repositories, design documents, email drafts
@@ -137,6 +164,8 @@ before it's released.
 * Be amazing reviewers. This is immensely important to junior team members.
 * Become better coders, analysts, researchers.
 * Better knowledge about the code base to be able to review the changes.
+
+</details>
 
 ## 🪛 Watching alerts, metrics, CI test runs
 
