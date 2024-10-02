@@ -169,11 +169,67 @@ before it's released.
 
 ## 🪛 Watching alerts, metrics, CI test runs
 
-TBD
+<img src="/img/monitoring.jpeg" alt="Monitoring the service" style="max-width: 100%;" width="256">
 
-## 🚀 Release & Deployment
+Keeping an eye on alerts, metrics, and CI test runs is crucial for maintaining system stability and 
+catching issues early. This role ensures the health of services, 
+preventing small problems from escalating into major incidents.
 
-TBD
+<details>
+<summary><b>More about this role</b></summary>
+
+### Responsible for
+* Monitor system alerts and respond to any critical issues that arise.
+* Keep track of key metrics (e.g. load, response times) to ensure systems are functioning 
+within acceptable limits.
+* Regularly check the results of CI test runs to catch external outages.
+* Investigate and communicate the cause of any alerts or failing CI to the team.
+* Document recurring issues and propose improvements to prevent future problems. 
+* Ensure that any necessary escalations are communicated to the users (e.g. via status page).
+
+### Why have this role?
+* Without active monitoring, issues can go unnoticed until they become critical, impacting service 
+uptime and user experience.
+* Proactive monitoring and addressing issues early helps service health and prevents disruptions.
+
+### What can people learn?
+* Gain experience with monitoring tools and CI. 
+* Learn how to troubleshoot alerts and CI failures. 
+* Build problem-solving and critical-thinking skills.
+
+</details>
+
+## 🚀 Release & Deployment 
+
+<img src="/img/release.jpeg" alt="Person in charge of releases and deployments" style="max-width: 100%;" width="256">
+
+Managing smooth deployments and releases is critical for the success of any service. 
+By ensuring the process is coordinated and thoroughly checked, you prevent issues
+in production and maintain service reliability.
+
+<details>
+<summary><b>More about this role</b></summary>
+
+### Responsible for
+* Coordinate with the team to confirm whether deploying new changes is safe.
+* Follow established instructions to carry out the new deployment.
+* Capture shortcomings in any of the steps.
+* Monitoring the outcome for any new issues.
+* If your product ships as packages, manage the release process.
+* Communicate release notes and any deployment impacts to users.
+* Propose improvements to the release and deployment process.
+
+### Why have this role?
+* Deployments and releases can introduce risks. Without a structured approach, issues may slip into production.
+* Having one person responsible ensures clear accountability and coordination.
+* This role prevents disruption by ensuring deployments are carefully planned and executed.
+
+### What can people learn?
+* Gain a deeper understanding of the deployment process.
+* Experience the challenge of handling releases under pressure, 
+building problem-solving and decision-making skills.
+
+</details>
 
 # Thank you to the interviewees
 
