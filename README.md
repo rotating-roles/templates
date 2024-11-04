@@ -42,13 +42,13 @@ role that will fit your team.
 
 Having a productive meeting that sticks to agenda, has notes, and a clear
 outcome, has a tremendeous impact on everyone. With one responsible meeting
-lead, you can stop wasting time of all people on your meetings.
+lead, you can have consistently an effective and productive conversation.
 
 <details>
 <summary><b>More about this role</b></summary>
 
 ### Responsible for
-* Run a meeting (TBD: this could be more detailed)
+* Moderate agreed-upon team meetings
 * Make sure people stay on topic
 * Follow meeting agenda - address all points
 * Write down action items and make sure the they are assigned
@@ -62,9 +62,9 @@ lead, you can stop wasting time of all people on your meetings.
 ### What can people learn?
 * Not everyone likes the attention, so this can be a big step outside of
   comfort zone for many.
-* It can be tiring to be in charge of everything all the time. Managers
-  understand. Team members may suddenly feel more empathy and compassion once
-  they realize that leading a meeting requires significant effort.
+* It can be tiring to be in charge of everything all the time. Managers and
+  leads can relate. Team members may suddenly feel more empathy and compassion
+  once they realize that leading a meeting requires significant effort.
 
 </details>
 
@@ -72,10 +72,10 @@ lead, you can stop wasting time of all people on your meetings.
 
 <img src="/img/agile-lead.jpg" alt="A team working on a problem together" style="max-width: 100%;" width="256">
 
-As we participate in our agile methodology technique, be it scrum, kanban, or anything else, we
-should have someone to be in charge. This role can be very similar to the
-Meeting lead. We are keeping it separate here so we can clearly distinguish
-between agile development methodology and just running meetings.
+As we participate in our agile methodology technique, be it scrum, kanban, or
+anything else, we should have someone to be in charge. This role can be very
+similar to the Meeting lead. We are keeping it separate here so we can clearly
+distinguish between agile development methodology and just running meetings.
 
 <details>
 <summary><b>More about this role</b></summary>
@@ -86,11 +86,12 @@ between agile development methodology and just running meetings.
 * Make sure everyone has the capacity to work on their tasks.
 * Assist people who are struggling in their assignments.
 * Volunteer if possible for i.e. research, testing, or reaching out to
-different teams if needed.
+  different teams if needed.
 * Celebrate success with the team.
 
 ### Why have this role?
 * It could become chaotic without an agile lead.
+* Every team is different and some can benefit a lot from getting the guidance.
 
 ### What can people learn?
 * The responsibility to be in charge of the team's current agile iteration
@@ -138,8 +139,10 @@ rooms, issue trackers, mailing lists, social media.
 Reviews are a pillar of a successful project. They make sure we are not making
 obvious mistakes and can be an effective learning tool for all parties. Make
 sure that your team is clear who is responsible for driving a proposal towards
-end (i.e. merging a pull request): if it's the author, maintainer, manager, or
-reviewer.
+the end (i.e. merging a pull request): if it's the author, maintainer, manager,
+or reviewer. If you are struggling with reviews, or even the design process,
+your team may benefit from [Woody Zuill's Mob
+Programming](https://woodyzuill.com/2024/02/software-teaming-mob-programming/).
 
 <details>
 <summary><b>More about this role</b></summary>
